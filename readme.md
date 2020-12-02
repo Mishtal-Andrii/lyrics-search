@@ -1,5 +1,5 @@
 ## LyricsSearch App
-
+[DEMO LINK](https://mishtal-andrii.github.io/lyrics-search/)
 Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
 
 ## Project Specifications
